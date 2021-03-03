@@ -1,4 +1,6 @@
 ### Hi there 👋
+📫 How to reach me: s.namimodarressi@gmail.com
+🌱 I’m currently learning ...
 
 <!--
 **SNamiMod/SNamiMod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
