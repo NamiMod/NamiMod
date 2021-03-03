@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 How to reach me: s.namimodarressi@gmail.com
+📫 How to reach me: s.namimodarressi@gmail.com\n
 🌱 I’m currently learning ...
 
 <!--
