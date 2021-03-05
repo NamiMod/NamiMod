@@ -1,6 +1,9 @@
 ### Hi there 👋
 📫 How to reach me: s.namimodarressi@gmail.com
 
+![Home](https://user-images.githubusercontent.com/60979433/110116972-82228480-7dcd-11eb-9428-a50bc7f0e01d.gif)
+
+
 <!--
 **SNamiMod/SNamiMod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
