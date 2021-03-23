@@ -1,10 +1,12 @@
-- Hey World !
-- Hi , How are you ?! Are you Okay ?
-- sure ! 
-- what are you doing ?
-- I'm printing you with hello :)
-- OH no ! another one ... 
+My life {
 
+😂;
+🍕;
+🏊🏻‍♂️
+🎮;
+💻;
+
+}
 
 
 
