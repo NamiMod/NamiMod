@@ -7,13 +7,14 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
-### 👨🏻‍💻 &nbsp;About me
+### ✌🏻 &nbsp;About me<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200"/>
 
-
-
-
-
-
+- 👨🏻‍💻 I started programming since 2013
+- 🎓 I’m currently pursuing my B.Sc. in Computer Engineering at Amirkabir University of Technology
+- 🔭 I’m currently working on my frontend skills
+- 💡 So curious about new technologies and trends
+- ⌨️ Love to Learn every cool technology
+- ⭐️ Open source lover
 
 
 
