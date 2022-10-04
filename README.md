@@ -1,4 +1,13 @@
-{😂,🍕,🏊🏻‍♂️,🎮,🧑🏻‍💻}
+<p align="center">
+<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
+</p>
+
+<h1>
+   Hi there
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</h1>
+
+### 👨🏻‍💻 &nbsp;About me
 
 
 
@@ -8,24 +17,25 @@
 
 
 
+### ⚙️ &nbsp;GitHub Analytics
 
-90 percent of my time 👇🏻😂
+<p align="center">
+<a href="https://github.com/namimod">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namimod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=namimod&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![Home](https://user-images.githubusercontent.com/60979433/110116972-82228480-7dcd-11eb-9428-a50bc7f0e01d.gif)
+### 🤝🏻 &nbsp;Connect with Me
 
-*Best* way to reach me: s.namimodarressi@gmail.com
-<!--
-**SNamiMod/SNamiMod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+ <a href="https://namimod.github.io/">
+    <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nami-modarressi-768067249">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:s.namimodarressi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
