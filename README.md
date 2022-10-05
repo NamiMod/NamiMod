@@ -9,7 +9,7 @@
 
 ### ✌🏻 &nbsp;About me<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200"/>
 
-- 👨🏻‍💻 I started programming since 2013
+- 👨🏻‍💻 I started programming in 2013
 - 🎓 I’m currently pursuing my B.Sc. in Computer Engineering at Amirkabir University of Technology
 - 🔭 I’m currently working on my frontend skills
 - 💡 So curious about new technologies and trends
